@@ -1,0 +1,15 @@
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/bin/Debug/net6.0/Persistence.dll
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/bin/Debug/net6.0/Persistence.pdb
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/bin/Debug/net6.0/Domain.dll
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/bin/Debug/net6.0/Domain.pdb
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/obj/Debug/net6.0/Persistence.csproj.CopyComplete
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/obj/Debug/net6.0/Persistence.dll
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/obj/Debug/net6.0/refint/Persistence.dll
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/obj/Debug/net6.0/Persistence.pdb
+/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/obj/Debug/net6.0/ref/Persistence.dll
