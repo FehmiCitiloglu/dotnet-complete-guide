@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/API/API.csproj": {}
+    "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/API/API.csproj": {}
   },
   "projects": {
-    "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/API/API.csproj": {
+    "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/API/API.csproj",
+        "projectUniqueName": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/API/API.csproj",
+        "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/API/API.csproj",
         "packagesPath": "/Users/fehmicitiloglu/.nuget/packages/",
-        "outputPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/API/obj/",
+        "outputPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fehmicitiloglu/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Application/Application.csproj": {
-                "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Application/Application.csproj"
+              "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Application/Application.csproj": {
+                "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Application/Application.csproj"
               }
             }
           }
@@ -43,6 +43,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -71,14 +77,14 @@
         }
       }
     },
-    "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Application/Application.csproj": {
+    "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Application/Application.csproj",
+        "projectUniqueName": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Application/Application.csproj",
+        "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Application/Application.csproj",
         "packagesPath": "/Users/fehmicitiloglu/.nuget/packages/",
-        "outputPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Application/obj/",
+        "outputPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fehmicitiloglu/.nuget/NuGet/NuGet.Config"
@@ -94,11 +100,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/Domain.csproj": {
-                "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/Domain.csproj"
+              "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/Domain.csproj": {
+                "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/Domain.csproj"
               },
-              "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/Persistence.csproj"
+              "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Persistence/Persistence.csproj"
               }
             }
           }
@@ -132,14 +138,14 @@
         }
       }
     },
-    "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/Domain.csproj": {
+    "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/Domain.csproj",
+        "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/Domain.csproj",
         "packagesPath": "/Users/fehmicitiloglu/.nuget/packages/",
-        "outputPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/obj/",
+        "outputPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fehmicitiloglu/.nuget/NuGet/NuGet.Config"
@@ -186,14 +192,14 @@
         }
       }
     },
-    "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/Persistence.csproj": {
+    "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/Persistence.csproj",
+        "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Persistence/Persistence.csproj",
         "packagesPath": "/Users/fehmicitiloglu/.nuget/packages/",
-        "outputPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Persistence/obj/",
+        "outputPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fehmicitiloglu/.nuget/NuGet/NuGet.Config"
@@ -209,8 +215,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/Domain.csproj": {
-                "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/Domain.csproj"
+              "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/Domain.csproj": {
+                "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/Domain.csproj"
               }
             }
           }
@@ -224,6 +230,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

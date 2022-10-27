@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/Domain.csproj",
+      "projectPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/Domain.csproj",
       "packagesPath": "/Users/fehmicitiloglu/.nuget/packages/",
-      "outputPath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/obj/",
+      "outputPath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fehmicitiloglu/.nuget/NuGet/NuGet.Config"

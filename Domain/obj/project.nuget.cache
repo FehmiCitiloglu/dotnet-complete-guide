@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IFzAGYM1qMm8UvqpmQo9yMULV4s67AG0srhxHFajJoflpegrQEQAqgPnwcShvXga3JrbIXe10mWb485VIQRPqw==",
+  "dgSpecHash": "oxQ9umReeiRiYUV2y0UltYXXKuR4m4zQOq8uC6D/SGhvIPOOEqQERvJAhJ1b1/eltTdszd8ZBeBmuYmF+DeQ6g==",
   "success": true,
-  "projectFilePath": "/Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/Domain.csproj",
+  "projectFilePath": "/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

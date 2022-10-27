@@ -10,3 +10,15 @@
 /Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/obj/Debug/net6.0/refint/Domain.dll
 /Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/obj/Debug/net6.0/Domain.pdb
 /Users/fehmicitiloglu/Desktop/dotnet/demo/Reactivies/Domain/obj/Debug/net6.0/ref/Domain.dll
+/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/bin/Debug/net6.0/Domain.dll
+/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/obj/Debug/net6.0/Domain.dll
+/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/obj/Debug/net6.0/refint/Domain.dll
+/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/obj/Debug/net6.0/Domain.pdb
+/Users/fehmicitiloglu/Desktop/dotnet/reactivities/Reactivies/Domain/obj/Debug/net6.0/ref/Domain.dll
